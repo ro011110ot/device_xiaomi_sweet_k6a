@@ -7,7 +7,7 @@
 
 set -e
 
-export DEVICE=sweet
+export DEVICE=sweet_k6a
 export VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
