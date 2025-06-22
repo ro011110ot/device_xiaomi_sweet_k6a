@@ -109,10 +109,10 @@ PRODUCT_PACKAGES += \
     android.hardware.memtrack@1.0-service
 
 PRODUCT_PACKAGES += \
-    gralloc.sm6150 \
-    hwcomposer.sm6150 \
+    # gralloc.sm6150 \
+    # hwcomposer.sm6150 \
     libqdMetaData \
-    memtrack.sm6150 \
+    # memtrack.sm6150 \
     vendor.display.config@2.0
 
 PRODUCT_PACKAGES += \
@@ -211,17 +211,17 @@ PRODUCT_PACKAGES += \
 
 # Media
 PRODUCT_PACKAGES += \
-    libOmxAacEnc \
-    libOmxAmrEnc \
+    # libOmxAacEnc \
+    # libOmxAmrEnc \
     libOmxCore \
-    libOmxEvrcEnc \
-    libOmxG711Enc \
-    libOmxQcelp13Enc \
+    # libOmxEvrcEnc \
+    # libOmxG711Enc \
+    # libOmxQcelp13Enc \
     libOmxVdec \
     libOmxVenc \
     libavservices_minijail_vendor \
     libcodec2_soft_common.vendor \
-    libmm-omxcore \
+    # libmm-omxcore \
     libsfplugin_ccodec_utils.vendor \
     libstagefright_foundation-v33 \
     libstagefright_softomx_plugin.vendor:32 \
